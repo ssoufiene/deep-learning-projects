@@ -1,5 +1,5 @@
 # Deep_Learning
-Containing projects and some model's implemntations.
+Containing projects and some model's implementations.
 
 Models : 
 | Model         | Descripiton      | Link to Code           |
