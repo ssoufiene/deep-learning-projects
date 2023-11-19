@@ -1,6 +1,7 @@
 # Deep Learning
 This repo contains deep learning model’s implementation and other Computer Vision projects that I’ve worked on the last couple of months.
-**Projects**
+
+**Projects** :
 | Project      | Descripiton      | Links        |
 | ------------- | ---------------- | ---------------------------------|
 | Sartorius Cell Segmentation   |For segmentation i used Detectorn 2 , the first step was converting the RLE-formated data to COCO. I used k_cross validation and implmented custom trainner object for the maP evaluator.    | [Link](Cells_Segmentation_with_Detectron_2.ipynb)|
