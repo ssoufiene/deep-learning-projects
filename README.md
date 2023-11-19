@@ -1,4 +1,4 @@
-# Deep_Learning
+# Deep Learning
 This repo contains some models impelmentations and some projects.
 
 **Projects**
