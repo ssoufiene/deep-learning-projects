@@ -1,6 +1,5 @@
 # Deep Learning
-This repo contains some models impelmentations and some projects.
-
+This repo contains deep learning model’s implementation and other Computer Vision projects that I’ve worked on the last couple of months.
 **Projects**
 | Project      | Descripiton      | Links        |
 | ------------- | ---------------- | ---------------------------------|
